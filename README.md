@@ -16,9 +16,8 @@
     --font-customfont: 'customfont', ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
 }
 
-
 body {
-    top: 0px !important;
+    font-family: var(--font-customfont);
 }
 
 ```
